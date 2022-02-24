@@ -1,0 +1,12 @@
+@import "./typography";
+@import "./function";
+@import "./colors";
+@import "./image";
+
+body {
+	color: $theme-web !important;
+}
+
+.space-between-session {
+	margin-top: rem(32);
+}
